@@ -1,0 +1,14 @@
+streamlit
+python-dotenv
+langchain
+langchain-core
+langchain-openai
+langchain-text-splitters
+langchain-community
+langchain-classic
+langchain-chroma
+chromadb
+pymupdf
+python-docx
+pandas
+rank-bm25
